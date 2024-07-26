@@ -1,3 +1,5 @@
+##Note: I am archiving this repository as I will no longer be actively contributing to the repository
+
 # PS2Linux
 an easy way to install Linux OS in PlayStation 2.
 
